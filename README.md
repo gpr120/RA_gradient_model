@@ -1,4 +1,6 @@
 # RA_gradient_model
+This repository contains code used for RA gradient simulation based on White et. al , as well as for generating figures related to our study entitled "Effects of Bisphenol A and Retinoic Acid Exposure on Neuron and Brain Formation: a Study in Human Induced Pluripotent Stem Cells and Zebrafish Embryos"
+
 
 ## Dependency
 
